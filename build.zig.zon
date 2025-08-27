@@ -1,0 +1,11 @@
+.{
+    .name = .miniaudioffms2example,
+    .version = "0.0.0",
+    .fingerprint = 0x891a3a6d999f3b37,
+    .minimum_zig_version = "0.16.0-dev.27+83f773fc6",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
